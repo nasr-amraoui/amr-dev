@@ -115,7 +115,6 @@ body {
   height: auto;
 }
 
-/* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
   .main {
     margin: 20px 10px;
@@ -143,7 +142,6 @@ body {
   }
 }
 
-/* Small devices (portrait tablets and large phones, 600px to 768px) */
 @media only screen and (min-width: 601px) and (max-width: 768px) {
   .main {
     margin: 30px 20px;
@@ -163,7 +161,6 @@ body {
   }
 }
 
-/* Medium devices (landscape tablets, 768px to 1024px) */
 @media only screen and (min-width: 769px) and (max-width: 1024px) {
   .main {
     margin: 40px 30px;
@@ -175,7 +172,6 @@ body {
   }
 }
 
-/* Large devices (laptops/desktops, 1024px to 1440px) */
 @media only screen and (min-width: 1025px) and (max-width: 1440px) {
   .main {
     margin: 50px 60px;
@@ -187,7 +183,6 @@ body {
   }
 }
 
-/* Extra large devices (large laptops and desktops, 1440px and up) */
 @media only screen and (min-width: 1441px) {
   .main {
     margin: 50px 120px;
